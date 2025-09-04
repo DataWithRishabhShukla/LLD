@@ -1,0 +1,32 @@
+# Java build output
+bin/
+out/
+target/
+*.class
+
+# VS Code settings
+.vscode/
+
+# IDE files
+*.iml
+.idea/
+*.log
+
+# OS files
+.DS_Store
+
+# Workspace storage (VS Code Java extension)
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+
+# Maven/Gradle
+.mvn/
+.gradle/
+build/
+
+# Other
+*.jar
+*.war
+*.ear

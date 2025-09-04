@@ -1,4 +1,4 @@
-package DesignPatterns.AdapterAndFacade;
+package DesignPatterns.Adapter_Facade;
 
 public class Client {
     public static void main(String[] args) {
