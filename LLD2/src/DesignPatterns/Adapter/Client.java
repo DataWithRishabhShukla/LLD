@@ -6,7 +6,7 @@ public class Client {
         System.out.println("Hello from Adapter and Facade pattern example!");
         BankAPI bankAPI = new YesBankAdapter();
         PhonePe phonePe = new PhonePe(bankAPI);
-        
+
     }
     
 }
