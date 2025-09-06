@@ -33,4 +33,4 @@ The **Facade** and **Adapter** design patterns both simplify interaction with ex
 ## Key Difference Summarized
 
 - **Facade:** Simplifies a complex subsystem by providing a new, unified interface.
-- **Adapter:** Makes incompatible interfaces compatible by converting one interface to
+- **Adapter:** Makes incompatible interfaces compatible by converting one interface to another.
